@@ -9,7 +9,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Web Development student based in Wasquehal (France), transitioning from a background in warehouse management to building clean, scalable software.
+Web Development student based in Wasquehal (France), bringing a unique background in high-stakes logistics to software engineering. Formerly a **Transport Operations Manager** overseeing 200 drivers and key clients in the just-in-time fresh produce sector, I thrive under pressure and excel at resource optimization, clear communication, and calm leadership in fast-paced, near-emergency environments.
 
 #### What I'm into
 - **Software Architecture:** Deeply interested in clean code principles, particularly **Hexagonal Architecture**.
@@ -21,7 +21,7 @@ Web Development student based in Wasquehal (France), transitioning from a backgr
 #### Beyond the code
 - **Side Projects:** I love building custom, distraction-free iOS and macOS apps to boost my daily efficiency. Rather than buying existing tools, I prefer crafting my own—it’s the most rewarding way for me to sharpen my Swift skills.
 - **Motorsports:** Big fan of Trial bikes and MotoGP.
-- **Nicknames:** Ju or **Toad** — a nickname given by my former coworkers 12 years ago when I managed a warehouse whose main client was a mushroom retailer.
+- **Nicknames:** Ju or **Toad** — a nickname given by my former coworkers 12 years ago when I managed transport operations for a major mushroom retailer.
 
 #### Get in touch
 - **LinkedIn:** Currently on pause, feel free to check out my repositories here in the meantime.
