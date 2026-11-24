@@ -1,13 +1,13 @@
 ### Hi there, I’m Ju (@JuNicolle)
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple_Ecosystem-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple_Ecosystem-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Web Development student based in Wasquehal (France), bringing a unique background in high-stakes logistics to software engineering. Formerly a **Transport Operations Manager** overseeing 200 drivers and key clients in the just-in-time fresh produce sector, I thrive under pressure and excel at resource optimization, clear communication, and calm leadership in fast-paced, near-emergency environments.
 
